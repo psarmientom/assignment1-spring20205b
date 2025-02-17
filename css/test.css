@@ -1,0 +1,50 @@
+*{
+    border:solid 3px gray;
+}
+body{
+    color:darkblue;
+    color:yellow;
+    color:#33464c;
+    /* background-color: bisque; */
+}
+h1, a, ul{
+    background-color: cornsilk;
+}
+#section1{
+    background-color:lightblue;
+    width:60%;
+    padding:50px;
+    margin:50px;
+}
+.redText{
+    color:red;
+}
+.blackText{
+    color:black;
+}
+section p{
+    font-size:2.5em;
+}
+p{
+    display:inline-block;
+    /* padding:20px; */
+    /* width:300px; */
+}
+.box{
+    /* border:none; */
+    display:inline-block;
+    width: 400px;
+    height:400px;
+}
+.hex{
+    background-color: #1ea547;
+}
+.rgb{
+    background-color: rgba(34, 170, 186, .8);
+}
+.hsl{
+    background-color: hsl(120, 100%, 30%);
+}
+.named{
+
+}
